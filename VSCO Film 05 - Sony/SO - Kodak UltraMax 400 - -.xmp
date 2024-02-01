@@ -3,7 +3,7 @@
   <rdf:Description rdf:about=""
     xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
    crs:PresetType="Normal"
-   crs:Cluster="暗房商店 02 VSCO Film for Sony"
+   crs:Cluster="  02 VSCO Film for Sony"
    crs:UUID="916F11604E54CAC877D89D23BAB67D4F"
    crs:SupportsAmount="False"
    crs:SupportsColor="True"
@@ -13,8 +13,8 @@
    crs:SupportsSceneReferred="True"
    crs:SupportsOutputReferred="True"
    crs:CameraModelRestriction=""
-   crs:Copyright="暗房商店 © Darkroom Store 2019-2022"
-   crs:ContactInfo="https://darkroom.taobao.com"
+   crs:Copyright=" bojun1995 ©"
+   crs:ContactInfo="bojun1995@github.com"
    crs:Version="13.3"
    crs:ProcessVersion="6.7"
    crs:Saturation="0"
@@ -94,7 +94,7 @@
    </crs:SortName>
    <crs:Group>
     <rdf:Alt>
-     <rdf:li xml:lang="x-default">暗房商店 - VSCO Film 05 (Sony)</rdf:li>
+     <rdf:li xml:lang="x-default">  - VSCO Film 05 </rdf:li>
     </rdf:Alt>
    </crs:Group>
    <crs:Description>
