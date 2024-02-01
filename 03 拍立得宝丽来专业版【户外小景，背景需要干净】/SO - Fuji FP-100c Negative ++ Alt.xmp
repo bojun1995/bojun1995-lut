@@ -1,0 +1,153 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+   crs:PresetType="Normal"
+   crs:Cluster="  02 VSCO Film for Sony"
+   crs:UUID="89ACE2A1759BD981AB17E85BA279580E"
+   crs:SupportsAmount="False"
+   crs:SupportsColor="True"
+   crs:SupportsMonochrome="True"
+   crs:SupportsHighDynamicRange="True"
+   crs:SupportsNormalDynamicRange="True"
+   crs:SupportsSceneReferred="True"
+   crs:SupportsOutputReferred="True"
+   crs:CameraModelRestriction=""
+   crs:Copyright=" bojun1995 ©"
+   crs:ContactInfo="bojun1995@github.com"
+   crs:Version="13.3"
+   crs:ProcessVersion="6.7"
+   crs:Saturation="-15"
+   crs:Sharpness="0"
+   crs:ShadowTint="0"
+   crs:RedHue="+25"
+   crs:RedSaturation="-15"
+   crs:GreenHue="0"
+   crs:GreenSaturation="0"
+   crs:BlueHue="-15"
+   crs:BlueSaturation="0"
+   crs:Vibrance="0"
+   crs:HueAdjustmentRed="+20"
+   crs:HueAdjustmentOrange="0"
+   crs:HueAdjustmentYellow="0"
+   crs:HueAdjustmentGreen="+20"
+   crs:HueAdjustmentAqua="+30"
+   crs:HueAdjustmentBlue="0"
+   crs:HueAdjustmentPurple="+60"
+   crs:HueAdjustmentMagenta="+46"
+   crs:SaturationAdjustmentRed="-20"
+   crs:SaturationAdjustmentOrange="-10"
+   crs:SaturationAdjustmentYellow="-10"
+   crs:SaturationAdjustmentGreen="-60"
+   crs:SaturationAdjustmentAqua="-36"
+   crs:SaturationAdjustmentBlue="0"
+   crs:SaturationAdjustmentPurple="-60"
+   crs:SaturationAdjustmentMagenta="-30"
+   crs:LuminanceAdjustmentRed="0"
+   crs:LuminanceAdjustmentOrange="-5"
+   crs:LuminanceAdjustmentYellow="0"
+   crs:LuminanceAdjustmentGreen="-15"
+   crs:LuminanceAdjustmentAqua="-40"
+   crs:LuminanceAdjustmentBlue="-40"
+   crs:LuminanceAdjustmentPurple="+25"
+   crs:LuminanceAdjustmentMagenta="+30"
+   crs:SplitToningShadowHue="0"
+   crs:SplitToningShadowSaturation="0"
+   crs:SplitToningHighlightHue="0"
+   crs:SplitToningHighlightSaturation="0"
+   crs:SplitToningBalance="0"
+   crs:ParametricShadows="0"
+   crs:ParametricDarks="0"
+   crs:ParametricLights="0"
+   crs:ParametricHighlights="0"
+   crs:ParametricShadowSplit="15"
+   crs:ParametricMidtoneSplit="44"
+   crs:ParametricHighlightSplit="75"
+   crs:SharpenRadius="+1.0"
+   crs:SharpenDetail="25"
+   crs:SharpenEdgeMasking="0"
+   crs:GrainAmount="10"
+   crs:GrainSize="65"
+   crs:GrainFrequency="100"
+   crs:Contrast2012="0"
+   crs:Highlights2012="-10"
+   crs:Shadows2012="+10"
+   crs:Whites2012="-10"
+   crs:Blacks2012="-10"
+   crs:Clarity2012="0"
+   crs:ConvertToGrayscale="False"
+   crs:ToneCurveName2012="Fuji FP-100c Neg ++ Alt"
+   crs:CameraProfile="Fuji FP-100c Neg SO"
+   crs:HasSettings="True">
+   <crs:Name>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">SO - Fuji FP-100c Negative ++ Alt</rdf:li>
+    </rdf:Alt>
+   </crs:Name>
+   <crs:ShortName>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default"/>
+    </rdf:Alt>
+   </crs:ShortName>
+   <crs:SortName>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default"/>
+    </rdf:Alt>
+   </crs:SortName>
+   <crs:Group>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">03 拍立得宝丽来【户外小景，背景需要干净】</rdf:li>
+    </rdf:Alt>
+   </crs:Group>
+   <crs:Description>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default"/>
+    </rdf:Alt>
+   </crs:Description>
+   <crs:ToneCurvePV2012>
+    <rdf:Seq>
+     <rdf:li>0, 52</rdf:li>
+     <rdf:li>49, 70</rdf:li>
+     <rdf:li>158, 149</rdf:li>
+     <rdf:li>227, 225</rdf:li>
+     <rdf:li>255, 253</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012>
+   <crs:ToneCurvePV2012Red>
+    <rdf:Seq>
+     <rdf:li>0, 20</rdf:li>
+     <rdf:li>38, 27</rdf:li>
+     <rdf:li>67, 56</rdf:li>
+     <rdf:li>98, 121</rdf:li>
+     <rdf:li>170, 199</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Red>
+   <crs:ToneCurvePV2012Green>
+    <rdf:Seq>
+     <rdf:li>0, 4</rdf:li>
+     <rdf:li>29, 18</rdf:li>
+     <rdf:li>57, 47</rdf:li>
+     <rdf:li>100, 119</rdf:li>
+     <rdf:li>134, 163</rdf:li>
+     <rdf:li>172, 194</rdf:li>
+     <rdf:li>217, 220</rdf:li>
+     <rdf:li>255, 242</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Green>
+   <crs:ToneCurvePV2012Blue>
+    <rdf:Seq>
+     <rdf:li>0, 18</rdf:li>
+     <rdf:li>30, 37</rdf:li>
+     <rdf:li>74, 78</rdf:li>
+     <rdf:li>101, 113</rdf:li>
+     <rdf:li>146, 153</rdf:li>
+     <rdf:li>208, 192</rdf:li>
+     <rdf:li>255, 222</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Blue>
+   <crs:Look
+    crs:Name=""/>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
